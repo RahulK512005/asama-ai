@@ -1,0 +1,8 @@
+{
+  "include": ["local-assistant/**/*.py"],
+  "exclude": ["**/__pycache__"],
+  "extraPaths": ["local-assistant"],
+  "pythonVersion": "3.10",
+  "pythonPlatform": "Linux",
+  "typeCheckingMode": "basic"
+}
